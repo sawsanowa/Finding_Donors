@@ -1,2 +1,3 @@
-# finding_donors
-Project Related to Introduction to Machine Learning with TensorFlow Nanodegree
+# Finding Donors for CharityML
+Project 1 under supervised learning section from the Introduction to Machine Learning with TensorFlow Nanodegree 
+MISK X Udacity Internship!
